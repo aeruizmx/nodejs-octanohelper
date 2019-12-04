@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andres Ruiz <aruiz@grupooctano.com.mx>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-wit": "^5.0.0"
+  }
 }
