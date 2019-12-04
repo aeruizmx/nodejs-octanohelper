@@ -1,0 +1,11 @@
+{
+  "name": "octanohelper",
+  "version": "1.0.0",
+  "description": "Bot Helper to Grupo Octano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Ruiz <aruiz@grupooctano.com.mx>",
+  "license": "ISC"
+}
